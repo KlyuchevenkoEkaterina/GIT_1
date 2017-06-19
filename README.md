@@ -1,2 +1,2 @@
 # GIT_1
-# just because of my task
+# This repository is designed for my homeworks.
