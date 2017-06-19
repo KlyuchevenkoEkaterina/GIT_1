@@ -1,2 +1,2 @@
 # GIT_1
-# My homework.
+# This repository is designed for my homework.
